@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "@neogeek/eslint-config-standards"
+  ],
+  "rules": {
+    "id-length": 0,
+    "max-statements": 0,
+    "no-shadow": 0,
+    "no-magic-numbers": 0
+  }
+}
